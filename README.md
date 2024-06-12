@@ -23,3 +23,8 @@ The To Do List Website is a simple and intuitive web application designed to hel
 7. **Responsive Design 📱**: The website is designed to be responsive, offering an optimal viewing experience across various devices, from desktop computers to mobile phones.
 8. **User-Friendly Interface 🖥️**: The application features a clean and simple interface, ensuring ease of use for all users.
 
+   Output:
+
+   ![image](https://github.com/Barathkalyan/CodTech-Task-1/assets/145141278/601109ca-b810-4fba-b790-41ddb82afff4)
+
+
