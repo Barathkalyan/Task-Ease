@@ -1,16 +1,9 @@
 Name: T Barathkalyan
 
-Company: CodTech IT Solutions
 
-ID: CT08PD866
+### Task Ease
 
-Duration: May to june 2024
-
-Domain: Web development
-
-### To Do List Website
-
-The To Do List Website is a simple and intuitive web application designed to help users manage their tasks efficiently. Built using HTML, CSS, and JavaScript, this project allows users to add, edit, and delete tasks, as well as keep track of completed and uncompleted tasks. This application provides an easy way to organize daily activities and boost productivity.
+Task Ease is a simple and intuitive web application designed to help users manage their tasks efficiently. Built using HTML, CSS, and JavaScript, this project allows users to add, edit, and delete tasks, as well as keep track of completed and uncompleted tasks. This application provides an easy way to organize daily activities and boost productivity.
 
 ### Features
 
