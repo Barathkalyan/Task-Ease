@@ -1,5 +1,3 @@
-Name: T Barathkalyan
-
 
 ### Task Ease
 
