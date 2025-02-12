@@ -18,4 +18,7 @@ Task Ease is a simple and intuitive web application designed to help users manag
 
    ![image](https://github.com/Barathkalyan/CodTech-Task-1/assets/145141278/601109ca-b810-4fba-b790-41ddb82afff4)
 
+   Future Integrations:
+Convert this into a full fledged web application with added database and authentication features for additional security and privacy!
+
 
